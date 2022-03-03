@@ -28,7 +28,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install -U -r requirements.lock.txt
+          pip install -U -r requirements.txt
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
