@@ -91,7 +91,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Dup4/mkdocs-material-template
+      link: https://github.com/TI-1050/wiki
 
 extra_css:
 
