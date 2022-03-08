@@ -43,9 +43,6 @@ theme:
     - toc.integrate
     - content.code.annotate
 
-    # insiders only
-    # - content.tabs.link
-
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -55,8 +52,8 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: cyan
+      scheme: dracula
+      primary: deep purple
       accent: deep purple
       toggle:
         icon: material/weather-night
@@ -66,15 +63,14 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-  logo: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
+    logo: material/airplane
 
 # Plugins
 plugins:
   - search:
       lang: ja
-  - rss
   - git-revision-date-localized:
       type: date
       enable_creation_date: true
@@ -82,6 +78,8 @@ plugins:
       minify_html: true
   - redirects:
       redirect_maps:
+  - mkdocs-material-extras:
+      enable_mathjax: !ENV [ENABLE_MATHJAX, true]
 
 # Customization
 extra:
@@ -93,13 +91,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/TI-1050/wiki
 
-extra_css:
-
-extra_javascript:
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - assets/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js
-
+# Extensions
 # Extensions
 markdown_extensions:
   - admonition:
@@ -114,8 +106,8 @@ markdown_extensions:
   - markdown.extensions.tables:
   - markdown.extensions.toc:
       slugify: !!python/name:pymdownx.slugs.uslugify
-      permalink: true
-      toc_depth: 3
+      permalink: ""
+      toc_depth: 2-4
   - pymdownx.arithmatex:
   - pymdownx.betterem:
   - pymdownx.caret:
@@ -168,7 +160,6 @@ markdown_extensions:
 
 docs_dir: docs
 
-# Page tree
 nav:
   - Home:
     - Getting Started: index.md
