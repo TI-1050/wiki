@@ -156,6 +156,8 @@ markdown_extensions:
   - pymdownx.striphtml:
   - pymdownx.snippets:
       check_paths: true
+      base_path:
+        - docs
   - pymdownx.saneheaders:
 
 docs_dir: docs
