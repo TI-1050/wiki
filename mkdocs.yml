@@ -12,6 +12,12 @@ edit_uri: tree/main/docs
 # Copyright
 copyright: Copyright &copy; 2018 - Present <a href="https://github.com/TI-1050" target="_blank" rel="noopener">TI1050</a>
 
+pate:
+  meta:
+    hide:
+      - navigation
+      - toc
+
 # Configuration
 theme:
   name: material
@@ -33,14 +39,14 @@ theme:
     # - navigation.expand
     # - navigation.sections
     - navigation.tracking
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.indexes
     - search.highlight
     - search.share
     - search.suggest
-    - toc.integrate
+    # - toc.integrate
     - content.code.annotate
 
   palette:
@@ -60,7 +66,7 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Roboto
+    text: Georgia
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
@@ -159,7 +165,3 @@ markdown_extensions:
   - pymdownx.saneheaders:
 
 docs_dir: docs
-
-nav:
-  - Home:
-    - Getting Started: index.md

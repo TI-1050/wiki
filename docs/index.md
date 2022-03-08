@@ -1,4 +1,17 @@
-# Getting Started
+---
+hide:
+    - toc
+    - navigation
+---
+
+# HZNU TI1050(2018)
+
+???+ info "Contents"
+    [TOC]
+
+## Status
+
+Retired.
 
 ## Members
 
