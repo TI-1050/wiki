@@ -12,12 +12,6 @@ edit_uri: tree/main/docs
 # Copyright
 copyright: Copyright &copy; 2018 - Present <a href="https://github.com/TI-1050" target="_blank" rel="noopener">TI1050</a>
 
-pate:
-  meta:
-    hide:
-      - navigation
-      - toc
-
 # Configuration
 theme:
   name: material
