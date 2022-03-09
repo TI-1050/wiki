@@ -1,9 +1,3 @@
----
-hide:
-    - toc
-    - navigation
----
-
 # 第 17 届浙江省程序设计竞赛
 
 ???+ info "Contents"

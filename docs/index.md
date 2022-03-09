@@ -1,9 +1,3 @@
----
-hide:
-    - toc
-    - navigation
----
-
 # HZNU TI1050(2018)
 
 ???+ info "Contents"

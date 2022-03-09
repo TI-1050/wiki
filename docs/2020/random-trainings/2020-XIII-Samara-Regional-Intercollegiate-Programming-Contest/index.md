@@ -1,9 +1,3 @@
----
-hide:
-    - toc
-    - navigation
----
-
 # 2020, XIII Samara Regional Intercollegiate Programming Contest
 
 ???+ info "Contents"

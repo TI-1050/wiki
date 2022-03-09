@@ -1,9 +1,3 @@
----
-hide:
-    - toc
-    - navigation
----
-
 # 2018 ACM-ICPC, Syrian Collegiate Programming Contest
 
 ???+ info "Contents"

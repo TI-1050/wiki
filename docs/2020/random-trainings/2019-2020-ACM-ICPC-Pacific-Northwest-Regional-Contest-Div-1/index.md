@@ -1,9 +1,3 @@
----
-hide:
-    - toc
-    - navigation
----
-
 # 2019-2020 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)
 
 ???+ info "Contents"
