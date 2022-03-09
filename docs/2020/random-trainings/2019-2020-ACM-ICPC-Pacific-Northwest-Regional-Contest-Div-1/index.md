@@ -40,7 +40,7 @@ Solved By Dup4. 2:26(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/a.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/a.cpp
     ---8<--
     ```
 
@@ -59,7 +59,7 @@ Solved By Hsueh-. 3:00(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/b.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/b.cpp
     ---8<--
     ```
 
@@ -79,7 +79,7 @@ Solved By Hsueh-. 0:48(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/c.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/c.cpp
     ---8<--
     ```
 
@@ -103,7 +103,7 @@ Solved By Hsueh-. 0:14(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/d.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/d.cpp
     ---8<--
     ```
 
@@ -122,7 +122,7 @@ Solved By Hsueh-. 0:18(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/e.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/e.cpp
     ---8<--
     ```
 
@@ -168,7 +168,7 @@ Solved By Hsueh- & Dup4. 1:28(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/i.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/i.cpp
     ---8<--
     ```
 
@@ -202,7 +202,7 @@ Solved By Dup4. 3:40(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/k.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/k.cpp
     ---8<--
     ```
 
@@ -221,7 +221,7 @@ Solved By ltslts. 1:59(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/l.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/l.cpp
     ---8<--
     ```
 
@@ -239,6 +239,6 @@ Solved By Hsueh-. 2:10(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest--Div--1-/solutions/m.cpp
+    2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/solutions/m.cpp
     ---8<--
     ```
