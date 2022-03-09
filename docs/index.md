@@ -38,7 +38,7 @@ Retired.
 |                 2019 ICPC Nanchang Onsite                 | 2019.11.10 |   Gold    |  28   |  5/13  |   .   |   .   |   O   |   .   |   O   |   .   |   O   |   .   |   .   |   .   |   O   |   O   |   .   |
 |                      2019 CCPC Final                      | 2019.11.17 | Honorable |  91   |  3/12  |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |
 |                    2019 ICPC EC Final                     | 2019.12.15 |  Silver   |  87   |  4/13  |   O   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   O   |
-|                        2020 ZJPSC                         | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
+|      [2020 ZJPSC](./2020/onsite/17th-zjpsc/index.md)      | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
 |                        2021 ZJPSC                         | 2021.04.18 |  Silver   |  38   |  7/13  |   O   |   .   |   O   |   !   |   .   |   O   |   O   |   .   |   !   |   O   |   .   |   O   |   O   |
 
 Comment:
