@@ -10,7 +10,7 @@
         "build": "bash build.sh",
         "dev": "mkdocs serve",
         "lint": "remark ./docs/**/*.md --quiet --frail",
-        "format": "remark ./docs/**/*.md --quiet --frail --output"
+        "lint:fix": "remark ./docs/**/*.md --quiet --frail --output"
     },
     "author": "TI1050",
     "license": "MIT",
