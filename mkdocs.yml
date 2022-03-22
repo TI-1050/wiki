@@ -92,7 +92,6 @@ extra:
       link: https://github.com/TI-1050/wiki
 
 # Extensions
-# Extensions
 markdown_extensions:
   - admonition:
   - abbr:
