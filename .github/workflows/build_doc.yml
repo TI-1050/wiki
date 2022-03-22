@@ -48,7 +48,7 @@ jobs:
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}
           ENABLE_MATHJAX: false
         run: |
-          bash -e build.sh
+          pnpm build
 
       - name: Deploy to gh-pages
         if: ${{ github.event_name != 'pull_request' }}
