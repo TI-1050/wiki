@@ -39,7 +39,7 @@ Comment:
 
 - O for passing during the contest
 - Ø for passing after the contest
--  ! for attempted but failed
+- ! for attempted but failed
 - · for having not attempted yet
 
 ## Trainings

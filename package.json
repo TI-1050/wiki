@@ -2,26 +2,21 @@
     "name": "@ti1050/wiki",
     "version": "1.0.0",
     "description": "TI1050 Wiki",
+    "private": true,
     "directories": {
         "doc": "docs"
     },
     "scripts": {
         "build": "bash build.sh",
-        "serve": "mkdocs serve",
+        "dev": "mkdocs serve",
         "lint": "remark ./docs/**/*.md --quiet --frail",
         "format": "remark ./docs/**/*.md --quiet --frail --output"
     },
     "author": "TI1050",
     "license": "MIT",
-    "dependencies": {
+    "devDependencies": {
         "mkdocs-render-math-ssr": "^1.0.5",
         "remark-cli": "^10.0.1",
-        "remark-copywriting-correct": "^0.5.0",
-        "remark-footnotes": "^4.0.1",
-        "remark-lint-final-newline": "^2.1.1",
-        "remark-lint-no-tabs": "^3.1.1",
-        "remark-math": "^5.1.1",
-        "remark-math-space": "^3.0.0",
-        "remark-preset-lint-markdown-style-guide": "^5.1.2"
+        "remark-preset-lint-mkdocs-material": "^0.6.0"
     }
 }
