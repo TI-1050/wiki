@@ -62,7 +62,9 @@ theme:
   font:
     text: Georgia
     code: Roboto Mono
+
   favicon: assets/favicon.png
+
   icon:
     repo: fontawesome/brands/github
     logo: material/airplane
