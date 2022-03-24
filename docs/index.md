@@ -7,6 +7,14 @@
 
 Retired.
 
+## Problem Set
+
+TI1050 出过的题目们。
+
+|                           Name                            |   Date    |                  Practice Link                  |                                                 Statement                                                  |                                                 Announcement                                                  | Editorial |
+| :-------------------------------------------------------: | :-------: | :---------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------: |
+| The Hangzhou Normal U Qualification Trials for ZJPSC 2020 | 2020.9.16 | [Codeforces](https://codeforces.com/gym/103463) | [Statement](./problem-set/The-Hangzhou-Normal-U-Qualification-Trials-for-ZJPSC-2020/assets/statements.pdf) | [Announcement](./problem-set/The-Hangzhou-Normal-U-Qualification-Trials-for-ZJPSC-2020/Announcement/index.md) |           |
+
 ## Members
 
 |     Name     |                         ID                         | Grade |      Profession      |
