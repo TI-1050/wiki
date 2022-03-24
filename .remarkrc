@@ -1,5 +1,13 @@
 {
     "plugins": [
-        "remark-preset-lint-mkdocs-material"
+        "remark-preset-lint-mkdocs-material",
+        [
+            "remark-lint-no-duplicate-headings",
+            false
+        ],
+        [
+            "remark-lint-list-item-content-indent",
+            false
+        ]
     ]
 }

@@ -14,8 +14,8 @@ You need to obverse the following rules:
 
 * Each team can only use ***one*** computer.
 * Each team can carry any paper materials.
-  * We will provided a PDF version of ***KUANGBIN-ACM/ICPC-TEMPLATE-2018***, you can use it in your computer. In addition,**you cannot use any other electronic materials.**
-  * If you are not confident in your English reading ability, we recommend you bring a dictionary.
+    * We will provided a PDF version of ***KUANGBIN-ACM/ICPC-TEMPLATE-2018***, you can use it in your computer. In addition,**you cannot use any other electronic materials.**
+    * If you are not confident in your English reading ability, we recommend you bring a dictionary.
 * The contest will take place on [***Wednesday, September 16, 2020 at 13:00***](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200916T13\&p1=501\&ah=4\&am=20). If you have an urgent matter, you can leave early ***$30$ minutes*** after the start of the contest.
 
 ***The final interpretation right belongs to the head coach Zhenyu Shan.***
@@ -50,11 +50,11 @@ The account of the warm-up contest will be given below, but the account of the o
 ***Please do not sign in with your own codeforces account，or you will be redirected to strange places.***
 
 ??? danger "The account of the warm-up contest"
-    |    Handle    | Password |                    Name                     |
-    | :----------: | :------: | :-----------------------------------------: |
-    | team2943441  |  VJWPV5  |    HZNU\_kindergarten - 包敏、孙周毅、魏炜     |
+    |    Handle    | Password |                     Name                      |
+    | :----------: | :------: | :-------------------------------------------: |
+    | team2943441  |  VJWPV5  |    HZNU\_kindergarten - 包敏、孙周毅、魏炜    |
     | team2943442  |  JLETVU  |   Fingertip melody - 谢作杰、卢霖统、杨昌林   |
-    | team2943443  |  1PF4E9  |     HZNU\_Tourists - 张凯莉、邱龙风、张传      |
+    | team2943443  |  1PF4E9  |     HZNU\_Tourists - 张凯莉、邱龙风、张传     |
     | team2943444  |  RSSH87  |  Schroedinger's Pig - 朱湖健、陆家辉、梁文博  |
     | team2943445  |  T4CYNZ  |       Cabbage - 施骏炜、陈思欣、毛昱滢        |
     | team2943446  |  QANPIR  |     Three Fruits - 温铭浩、魏依洋、李浩然     |
@@ -62,7 +62,7 @@ The account of the warm-up contest will be given below, but the account of the o
     | team2943448  |  KKLM3R  | washing washing sleeping - 何陈聪、付俊、李骋 |
     | team2943449  |  2GA887  |  Kitten Marine Corp - 刘恒羽、叶初航、周婉婧  |
     | team29434410 |  PHLKVY  |     yingyingying - 邵铁夫、温声荣、苏桐渤     |
-    | team29434411 |  C4Z8F1  |     O (n!) -> O (1)- 张枨、陈柯涛、吴陈宇      |
+    | team29434411 |  C4Z8F1  |     O (n!) -> O (1)- 张枨、陈柯涛、吴陈宇     |
     | team29434412 |  PXSMB9  |        acwork - 全振宇、宋博帆、王艺蓉        |
     | team29434413 |  WKWU7Z  |          NULL - 林峰、梁涵杰、徐光泽          |
     | team29434414 |  EI9JDW  |        Turing - 陈雨欣、周珈伊、徐豪杰        |
