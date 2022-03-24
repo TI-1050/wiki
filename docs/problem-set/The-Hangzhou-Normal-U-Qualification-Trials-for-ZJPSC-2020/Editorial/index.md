@@ -47,7 +47,7 @@
 
 ## Materials
 
-* [PRACTICE LINK](https://codeforces.com/contestInvitation/c51a775a18a16d9143921268430e019db52f0b33)
+* [PRACTICE LINK](https://codeforces.com/gym/103463)
 
 ??? info "account"
     |    Handle    | Password |                      Name                       |
@@ -70,7 +70,6 @@
     | team29503616 |  2ZFGJA  |     Fried tomatoes-C2-毛潜飞、方一昊、叶俊      |
     | team29503617 |  H8ZIP2  |    dancing lightning-B3-徐浩然、梁雨欣、杨帆    |
     | team29503618 |  2R6WYC  |   non-prepared guys-A5-蔡林达、高笑芸、刘兴松   |
-
 
 ## Solutions
 
