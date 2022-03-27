@@ -78,9 +78,10 @@ Comment:
 
 ### 2018 Multi-University Training
 
-|                                                    Name                                                    |    Date    |  Rank  | Solved |
-| :--------------------------------------------------------------------------------------------------------: | :--------: | :----: | :----: |
-| [2018 Multi-University Training Contest 1](./trainings/2018-Multi-University-Trainings/Contest-1/index.md) | 2018.08.29 | 47/770 |  6/11  |
+|                                                    Name                                                    |    Date    |  Rank   | Solved |
+| :--------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
+| [2018 Multi-University Training Contest 1](./trainings/2018-Multi-University-Trainings/Contest-1/index.md) | 2018.08.29 | 47/770  |  6/11  |
+| [2018 Multi-University Training Contest 2](./trainings/2018-Multi-University-Trainings/Contest-2/index.md) | 2018.08.31 | 90//818 |  3/10  |
 
 ### Random Training
 
