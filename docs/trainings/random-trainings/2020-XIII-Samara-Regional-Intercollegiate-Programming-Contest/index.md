@@ -35,7 +35,7 @@ Solved By Hsueh-. 0:29(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/a.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/a.cpp
     --8<--
     ```
 
@@ -54,7 +54,7 @@ Solved By Dup4. 0:18(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/b.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/b.cpp
     --8<--
     ```
 
@@ -76,7 +76,7 @@ Solved By Dup4. 3:53(+2)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/c.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/c.cpp
     --8<--
     ```
 
@@ -96,7 +96,7 @@ Solved By Hsueh-. 1:48(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/d.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/d.cpp
     --8<--
     ```
 
@@ -115,7 +115,7 @@ Solved By Hsueh-. 0:15(+1)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/e.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/e.cpp
     --8<--
     ```
 
@@ -136,7 +136,7 @@ Solved By Hsueh-. 0:54(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/f.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/f.cpp
     --8<--
     ```
 
@@ -157,7 +157,7 @@ Solved By Hsueh- & ltslts. 3:00(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/g.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/g.cpp
     --8<--
     ```
 
@@ -176,7 +176,7 @@ Solved By All. 0:23(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/h.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/h.cpp
     --8<--
     ```
 
@@ -195,7 +195,7 @@ Solved By Dup4 & ltslts. 0:32(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/i.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/i.cpp
     --8<--
     ```
 
@@ -214,14 +214,14 @@ Solved By Hsueh- & ltslts. 2:06(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/j.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/j.cpp
     --8<--
     ```
 
 ??? info "打表代码"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/j_print_table.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/j_print_table.cpp
     --8<--
     ```
 
@@ -243,7 +243,7 @@ Solved By ltslts. 1:14(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/k.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/k.cpp
     --8<--
     ```
 
@@ -264,7 +264,7 @@ Solved By Hsueh- & ltslts. 0:59(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/l.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/l.cpp
     --8<--
     ```
 
@@ -283,6 +283,6 @@ Solved By Hsueh-. 0:39(+)
 ??? info "Code"
     ```cpp
     --8<--
-    2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/m.cpp
+    trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/solutions/m.cpp
     --8<--
     ```

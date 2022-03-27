@@ -64,7 +64,7 @@ TI1050 出过的题目们。
 |                 2019 ICPC Nanchang Onsite                 | 2019.11.10 |   Gold    |  28   |  5/13  |   .   |   .   |   O   |   .   |   O   |   .   |   O   |   .   |   .   |   .   |   O   |   O   |   .   |
 |                      2019 CCPC Final                      | 2019.11.17 | Honorable |  91   |  3/12  |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |
 |                    2019 ICPC EC Final                     | 2019.12.15 |  Silver   |  87   |  4/13  |   O   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   O   |
-|      [2020 ZJPSC](./2020/onsite/17th-zjpsc/index.md)      | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
+|        [2020 ZJPSC](./onsite/17th-zjpsc/index.md)         | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
 |                        2021 ZJPSC                         | 2021.04.18 |  Silver   |  38   |  7/13  |   O   |   .   |   O   |   !   |   .   |   O   |   O   |   .   |   !   |   O   |   .   |   O   |   O   |
 
 Comment:
@@ -83,13 +83,13 @@ Comment:
 
 ### Random Training
 
-|                                                                                Name                                                                                |   Date    |  Rank   | Solved |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----: | :----: |
-|  [2020, XIII Samara Regional Intercollegiate Programming Contest](./2020/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/index.md)  | 2020.4.6  |  8/168  | 13/13  |
-|   [2019-2020 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](./2020/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/index.md)   | 2020.4.11 | 33/153  |  9/13  |
-|            [2018 ACM-ICPC, Syrian Collegiate Programming Contest](./2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/index.md)            | 2020.4.12 | 17/262  | 10/12  |
-|                           [“科大讯飞杯”第18届上海大学程序设计联赛春季赛暨高校网络友谊赛](./2020/random-trainings/18th-SHU-CPC/index.md)                            | 2020.4.18 | 19/3177 |  9/12  |
-|      [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](./2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/index.md)       | 2020.4.19 |  9/362  | 11/13  |
-|         [2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest](./2020/random-trainings/2017-2018-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.4.25 | 99/5078 |  9/13  |
-|         [2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest](./2020/random-trainings/2016-2017-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.5.4  | 86/4048 |  9/12  |
-| [22019-2020 ACM-ICPC Latin American Regional Programming Contest](./2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/index.md) | 2020.5.5  | 85/1179 |  7/13  |
+|                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----: | :----: |
+|  [2020, XIII Samara Regional Intercollegiate Programming Contest](./trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/index.md)  | 2020.4.6  |  8/168  | 13/13  |
+|   [2019-2020 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](./trainings/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/index.md)   | 2020.4.11 | 33/153  |  9/13  |
+|            [2018 ACM-ICPC, Syrian Collegiate Programming Contest](./trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/index.md)            | 2020.4.12 | 17/262  | 10/12  |
+|                           [“科大讯飞杯”第18届上海大学程序设计联赛春季赛暨高校网络友谊赛](./trainings/random-trainings/18th-SHU-CPC/index.md)                            | 2020.4.18 | 19/3177 |  9/12  |
+|      [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/index.md)       | 2020.4.19 |  9/362  | 11/13  |
+|         [2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2017-2018-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.4.25 | 99/5078 |  9/13  |
+|         [2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2016-2017-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.5.4  | 86/4048 |  9/12  |
+| [22019-2020 ACM-ICPC Latin American Regional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/index.md) | 2020.5.5  | 85/1179 |  7/13  |

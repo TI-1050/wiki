@@ -54,7 +54,7 @@ UpSolved by Dup4.
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/c.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/c.cpp
     ---8<--
     ```
 
@@ -73,7 +73,7 @@ Solved By Hsueh-. 3:47(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/d.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/d.cpp
     ---8<--
     ```
 
@@ -92,7 +92,7 @@ Solved By Dup4. 0:14(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/e.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/e.cpp
     ---8<--
     ```
 
@@ -117,7 +117,7 @@ $$
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/f.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/f.cpp
     ---8<--
     ```
 
@@ -137,7 +137,7 @@ Solved By Dup4. 0:54(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/g.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/g.cpp
     ---8<--
     ```
 
@@ -164,7 +164,7 @@ Solved By Hsueh-. 1:00(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/i.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/i.cpp
     ---8<--
     ```
 
@@ -197,7 +197,7 @@ Solved By Dup4. 1:23(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/k.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/k.cpp
     ---8<--
     ```
 
@@ -217,7 +217,7 @@ Solved By Hsueh-. 1:42(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/l.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/l.cpp
     ---8<--
     ```
 
@@ -236,6 +236,6 @@ Solved By Hsueh-. 0:08(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/m.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/solutions/m.cpp
     ---8<--
     ```

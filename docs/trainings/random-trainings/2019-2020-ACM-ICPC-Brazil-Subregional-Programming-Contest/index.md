@@ -33,7 +33,7 @@ Solved By Hsueh- & ltslts. 0:33(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/a.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/a.cpp
     ---8<--
     ```
 
@@ -46,7 +46,7 @@ Solved By Dup4. 0:07(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/b.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/b.cpp
     ---8<--
     ```
 
@@ -73,7 +73,7 @@ Solved By Dup4 & Hsueh-. 1:39(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/d.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/d.cpp
     ---8<--
     ```
 
@@ -100,7 +100,7 @@ Solved By Dup4 & ltslts. 4:18(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/f.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/f.cpp
     ---8<--
     ```
 
@@ -118,7 +118,7 @@ Solved By Hsueh-. 1:00(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/g.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/g.cpp
     ---8<--
     ```
 
@@ -137,7 +137,7 @@ Solved By Hsueh-. 0:06(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/h.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/h.cpp
     ---8<--
     ```
 
@@ -156,7 +156,7 @@ $n$ 个星球，每个星球又在自己的温度，有 $Q$ 次查询，每次�
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/i.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/i.cpp
     ---8<--
     ```
 
@@ -184,7 +184,7 @@ Solved By Hsueh-. 2:02(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/j.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/j.cpp
     ---8<--
     ```
 
@@ -253,7 +253,7 @@ $$
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/k.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/k.cpp
     ---8<--
     ```
 
@@ -283,7 +283,7 @@ Solved By Dup4 & ltslts. 1:07(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/l.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/l.cpp
     ---8<--
     ```
 
@@ -309,6 +309,6 @@ Solved By Dup4. 0:33(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/m.cpp
+    trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/solutions/m.cpp
     ---8<--
     ```

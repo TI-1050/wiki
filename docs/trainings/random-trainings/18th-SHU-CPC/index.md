@@ -56,7 +56,7 @@ Solved By Hsueh-. 0:41(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/d.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/d.cpp
     ---8<--
     ```
 
@@ -71,7 +71,7 @@ Solved By ltslts. 0:16(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/e.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/e.cpp
     ---8<--
     ```
 
@@ -86,7 +86,7 @@ Solved By Dup4. 0:37(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/f.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/f.cpp
     ---8<--
     ```
 
@@ -101,7 +101,7 @@ UpSolved By Dup4.
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/g.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/g.cpp
     ---8<--
     ```
 
@@ -125,7 +125,7 @@ Solved By Hsueh- & ltslts. 4:56(+7)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/h.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/h.cpp
     ---8<--
     ```
 
@@ -155,7 +155,7 @@ $$
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/i.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/i.cpp
     ---8<--
     ```
 
@@ -172,7 +172,7 @@ UpSolved By Dup4.
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/j.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/j.cpp
     ---8<--
     ```
 
@@ -189,7 +189,7 @@ Solved By Dup4. 3:36(+3)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/k.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/k.cpp
     ---8<--
     ```
 
@@ -204,6 +204,6 @@ Solved By Hsueh-. 3:11(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/18th-SHU-CPC/solutions/l.cpp
+    trainings/random-trainings/18th-SHU-CPC/solutions/l.cpp
     ---8<--
     ```

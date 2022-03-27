@@ -35,7 +35,7 @@ Solved By Hsueh-. 0:04(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/a.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/a.cpp
     ---8<--
     ```
 
@@ -54,7 +54,7 @@ Solved By Dup4. 0:10(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/b.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/b.cpp
     ---8<--
     ```
 
@@ -73,7 +73,7 @@ Solved By Dup4. 1:00(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/c.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/c.cpp
     ---8<--
     ```
 
@@ -91,7 +91,7 @@ Solved By Heush-. 1:44(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/d.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/d.cpp
     ---8<--
     ```
 
@@ -124,7 +124,7 @@ Solved By Dup4. 2:45(+2)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/f.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/f.cpp
     ---8<--
     ```
 
@@ -144,7 +144,7 @@ Solved By Dup4. 3:22(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/g.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/g.cpp
     ---8<--
     ```
 
@@ -165,7 +165,7 @@ Solved By Hsueh-. 1:29(+4)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/h.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/h.cpp
     ---8<--
     ```
 
@@ -184,7 +184,7 @@ Solved By Hsueh-. 2:34(+3)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/i.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/i.cpp
     ---8<--
     ```
 
@@ -207,7 +207,7 @@ Solved By Dup4 & Hsueh-. 4:19(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/j.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/j.cpp
     ---8<--
     ```
 
@@ -227,7 +227,7 @@ Solved By Dup4 & Hsueh-. 1:11(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/k.cpp
+    trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/solutions/k.cpp
     ---8<--
     ```
 

@@ -48,7 +48,7 @@ Solved By Dup4 & Hsueh-. 01:10(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/a.cpp
+    onsite/17th-zjpsc/solutions/a.cpp
     ---8<--
     ```
 
@@ -76,7 +76,7 @@ Solved By all. 00:57(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/b.cpp
+    onsite/17th-zjpsc/solutions/b.cpp
     ---8<--
     ```
 
@@ -99,7 +99,7 @@ Solved By Dup4 & Hsueh-. 02:57(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/c.cpp
+    onsite/17th-zjpsc/solutions/c.cpp
     ---8<--
     ```
 
@@ -141,7 +141,7 @@ $$
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/e.cpp
+    onsite/17th-zjpsc/solutions/e.cpp
     ---8<--
     ```
 
@@ -174,7 +174,7 @@ Solved By Hsueh- & ltslts. 03:33(+1)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/g.cpp
+    onsite/17th-zjpsc/solutions/g.cpp
     ---8<--
     ```
 
@@ -202,7 +202,7 @@ Solved By Hsueh- & ltslts. 00:16(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/i.cpp
+    onsite/17th-zjpsc/solutions/i.cpp
     ---8<--
     ```
 
@@ -227,7 +227,7 @@ Solved By Dup4. 00:14(+)
 ??? info "Code"
     ```cpp
     ---8<--
-    2020/onsite/17th-zjpsc/solutions/k.cpp
+    onsite/17th-zjpsc/solutions/k.cpp
     ---8<--
     ```
 
