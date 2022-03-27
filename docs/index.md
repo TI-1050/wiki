@@ -78,10 +78,18 @@ Comment:
 
 ### 2018 Multi-University Training
 
-|                                                    Name                                                    |    Date    |  Rank   | Solved |
-| :--------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
-| [2018 Multi-University Training Contest 1](./trainings/2018-Multi-University-Trainings/Contest-1/index.md) | 2018.08.29 | 47/770  |  6/11  |
-| [2018 Multi-University Training Contest 2](./trainings/2018-Multi-University-Trainings/Contest-2/index.md) | 2018.08.31 | 90//818 |  3/10  |
+|                                                     Name                                                     |    Date    |  Rank   | Solved |
+| :----------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
+|  [2018 Multi-University Training Contest 1](./trainings/2018-Multi-University-Trainings/Contest-1/index.md)  | 2018.08.29 | 47/770  |  6/11  |
+|  [2018 Multi-University Training Contest 2](./trainings/2018-Multi-University-Trainings/Contest-2/index.md)  | 2018.08.31 | 90/818  |  3/10  |
+|  [2018 Multi-University Training Contest 3](./trainings/2018-Multi-University-Trainings/Contest-3/index.md)  | 2018.09.04 | 40/817  |  6/13  |
+|  [2018 Multi-University Training Contest 4](./trainings/2018-Multi-University-Trainings/Contest-4/index.md)  | 2018.09.06 | 70/582  |  6/12  |
+|  [2018 Multi-University Training Contest 5](./trainings/2018-Multi-University-Trainings/Contest-5/index.md)  | 2018.10.28 |   281   |  2/12  |
+|  [2018 Multi-University Training Contest 6](./trainings/2018-Multi-University-Trainings/Contest-6/index.md)  | 2018.10.07 | 108/797 |  3/12  |
+|  [2018 Multi-University Training Contest 7](./trainings/2018-Multi-University-Trainings/Contest-7/index.md)  | 2018.10.10 | 95/766  |  4/11  |
+|  [2018 Multi-University Training Contest 8](./trainings/2018-Multi-University-Trainings/Contest-8/index.md)  | 2018.10.26 | 48/859  |  5/12  |
+|  [2018 Multi-University Training Contest 9](./trainings/2018-Multi-University-Trainings/Contest-9/index.md)  | 2018.10.12 | 80/750  |  3/11  |
+| [2018 Multi-University Training Contest 10](./trainings/2018-Multi-University-Trainings/Contest-10/index.md) | 2018.10.17 | 198/767 |  5/12  |
 
 ### Random Training
 
