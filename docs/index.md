@@ -15,6 +15,11 @@ Retired.
 |  Lyuzhi Pan  |    [Dup4](https://codeforces.com/profile/Dup4)     | 2017  | Software Engineering |
 | Tiansong Luo |    [ltslts](https://codeforces.com/profile/lts)    | 2017  |   Computer Science   |
 
+## Team Reference Document
+
+* [GitHub Link](https://github.com/TI-1050/template)
+* [PDF Download](./assets/template.pdf)
+
 ## Problem Set
 
 TI1050 出过的题目们。
