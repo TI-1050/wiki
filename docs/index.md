@@ -156,6 +156,21 @@ Comment:
 |                [2018 牛客国庆集训派对 Day6](https://www.cnblogs.com/Dup4/p/9747773.html)                 | 2018.10.06 |  24   |  6/11  |
 | [2018 牛客国庆集训派对 Day7（2016 ICPC Tsingdao Regional）](https://www.cnblogs.com/Dup4/p/9750466.html) | 2018.10.07 |  51   |  4/13  |
 
+### 2019 Multi-University Training
+
+|                                           Name                                            |
+| :---------------------------------------------------------------------------------------: |
+| [2019 Multi-University Training Contest 1](https://www.cnblogs.com/Dup4/p/11229576.html)  |
+| [2019 Multi-University Training Contest 2](https://www.cnblogs.com/Dup4/p/11240580.html)  |
+| [2019 Multi-University Training Contest 3](https://www.cnblogs.com/Dup4/p/11267617.html)  |
+| [2019 Multi-University Training Contest 4](https://www.cnblogs.com/Dup4/p/11280287.html)  |
+| [2019 Multi-University Training Contest 5](https://www.cnblogs.com/Dup4/p/11306751.html)  |
+| [2019 Multi-University Training Contest 6](https://www.cnblogs.com/Dup4/p/11319326.html)  |
+| [2019 Multi-University Training Contest 7](https://www.cnblogs.com/Dup4/p/11416532.html)  |
+| [2019 Multi-University Training Contest 8](https://www.cnblogs.com/Dup4/p/11359601.html)  |
+| [2019 Multi-University Training Contest 9](https://www.cnblogs.com/Dup4/p/11420697.html)  |
+| [2019 Multi-University Training Contest 10](https://www.cnblogs.com/Dup4/p/11426430.html) |
+
 ### Random Training
 
 |                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
