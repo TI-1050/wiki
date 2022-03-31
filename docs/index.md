@@ -166,6 +166,19 @@ Comment:
 |                [2018 牛客国庆集训派对 Day6](https://www.cnblogs.com/Dup4/p/9747773.html)                 | 2018.10.06 |  24   |  6/11  |
 | [2018 牛客国庆集训派对 Day7（2016 ICPC Tsingdao Regional）](https://www.cnblogs.com/Dup4/p/9750466.html) | 2018.10.07 |  51   |  4/13  |
 
+### 2019 Wannafly Winter Camp
+
+|                                             Name                                              |    Date    | Solved |
+| :-------------------------------------------------------------------------------------------: | :--------: | :----: |
+| [CCPC-Wannafly Winter Camp Day1 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10296448.html) | 2019-01-20 |  4/11  |
+| [CCPC-Wannafly Winter Camp Day2 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10301355.html) | 2019-01-21 |  4/12  |
+| [CCPC-Wannafly Winter Camp Day3 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10305427.html) | 2019-01-22 |  5/10  |
+| [CCPC-Wannafly Winter Camp Day4 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10311074.html) | 2019-01-23 |  6/11  |
+| [CCPC-Wannafly Winter Camp Day5 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10317369.html) | 2019-01-24 |  5/10  |
+| [CCPC-Wannafly Winter Camp Day7 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10324687.html) | 2019-01-26 |  6/10  |
+| [CCPC-Wannafly Winter Camp Day8 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10327868.html) | 2019-01-27 |  4/10  |
+
+
 ### 2019 HDU Multi-University Training
 
 |                                           Name                                            |
