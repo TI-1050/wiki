@@ -178,7 +178,6 @@ Comment:
 | [CCPC-Wannafly Winter Camp Day7 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10324687.html) | 2019-01-26 |  6/10  |
 | [CCPC-Wannafly Winter Camp Day8 (Div2, onsite)](https://www.cnblogs.com/Dup4/p/10327868.html) | 2019-01-27 |  4/10  |
 
-
 ### 2019 HDU Multi-University Training
 
 |                                           Name                                            |
