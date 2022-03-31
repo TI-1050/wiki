@@ -113,6 +113,22 @@ Comment:
 |           [The 2018 ACM-ICPC Asia Beijing Regional Contest](https://www.cnblogs.com/Dup4/p/11675241.html)           |            |         |        |
 |                  [2019 ICPC Asia Yinchuan Regional](https://www.cnblogs.com/Dup4/p/11963769.html)                   |            |         |        |
 |                   [2019 ICPC Asia Xuzhou Regional](https://www.cnblogs.com/Dup4/p/12005873.html)                    |            |         |        |
+
+### CCPC Regional Traning
+
+|                                                    Name                                                     |    Date    |  Rank  | Solved |
+| :---------------------------------------------------------------------------------------------------------: | :--------: | :----: | :----: |
+| [The 2017 China Collegiate Programming Contest, Hangzhou Site](https://www.cnblogs.com/Dup4/p/9489309.html) | 2018.08.16 | 42/191 |  6/12  |
+|             [2017中国大学生程序设计竞赛-哈尔滨站](https://www.cnblogs.com/Dup4/p/9524963.html)              | 2018.08.23 | 39/188 |  4/13  |
+|                   [CCPC2018-湖南全国邀请赛](https://www.cnblogs.com/Dup4/p/9593797.html)                    | 2018.09.05 | 7/107  |  7/11  |
+|                    [CCPC 2017-2018, Finals](https://www.cnblogs.com/Dup4/p/9635731.html)                    | 2018.09.12 | 54/117 |  5/11  |
+|                        [2016 CCPC 长春](https://www.cnblogs.com/Dup4/p/9649051.html)                        | 2018.09.14 | 37/181 |  6/11  |
+|      [「字节跳动杯」2018 中国大学生程序设计竞赛-女生专场](https://www.cnblogs.com/Dup4/p/9851609.html)      | 2018.10.25 | 27/188 |  5/11  |
+|                    [CCPC 2016-2017, Finals](https://www.cnblogs.com/Dup4/p/9940219.html)                    | 2018.11.10 | 18/130 |  8/12  |
+|  [The 2019 China Collegiate Programming Contest Harbin Site](https://www.cnblogs.com/Dup4/p/11790255.html)  |            |        |        |
+|             [2019中国大学生成绩设计竞赛-女生专场](https://www.cnblogs.com/Dup4/p/11192685.html)             |            |        |        |
+|                     [2019CCPC-江西省赛 ](https://www.cnblogs.com/Dup4/p/11223762.html)                      |            |        |        |
+
 ### 2018 Multi-University Training
 
 |                                                     Name                                                     |    Date    |  Rank   | Solved |
