@@ -9,11 +9,11 @@ Retired.
 
 ## Members
 
-|     Name     |                         ID                         | Grade |      Profession      |
-| :----------: | :------------------------------------------------: | :---: | :------------------: |
-| Hongtao Xue  | [Hsueh-](https://codeforces.com/profile/HsuehHtao) | 2017  |   Computer Science   |
-|  Lyuzhi Pan  |    [Dup4](https://codeforces.com/profile/Dup4)     | 2017  | Software Engineering |
-| Tiansong Luo |    [ltslts](https://codeforces.com/profile/lts)    | 2017  |   Computer Science   |
+|     Name     |                         ID                         | Grade |      Profession      |                                          Extra                                           |
+| :----------: | :------------------------------------------------: | :---: | :------------------: | :--------------------------------------------------------------------------------------: |
+| Hongtao Xue  | [Hsueh-](https://codeforces.com/profile/HsuehHtao) | 2017  |   Computer Science   |                             [Blog](https://blog.hsueh.club/)                             |
+|  Lyuzhi Pan  |    [Dup4](https://codeforces.com/profile/Dup4)     | 2017  | Software Engineering | [Blog:CSDN](https://blog.csdn.net/Dup4plz), [Blog:cnblogs](https://www.cnblogs.com/Dup4) |
+| Tiansong Luo |    [ltslts](https://codeforces.com/profile/lts)    | 2017  |   Computer Science   |                                                                                          |
 
 ## Team Reference Document
 
