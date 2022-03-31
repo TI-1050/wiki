@@ -210,6 +210,38 @@ Comment:
 |               [2019-2020 ICPC, Asia Jakarta Regional Contest](https://www.cnblogs.com/Dup4/p/11888609.html)               |
 |           [ICPC 2019-2020 North-Western Russia Regional Contest](https://www.cnblogs.com/Dup4/p/11968817.html)            |
 
+### Opentrains
+
+|                                                                Name                                                                 |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+|        [XVII Open Cup named after E.V. Pankratiev. Grand Prix of Two Capitals](https://www.cnblogs.com/Dup4/p/11129829.html)        |
+| [XVII Open Cup named after E.V. Pankratiev. Grand Prix of Moscow Workshops](https://www.cnblogs.com/Dup4/protected/p/11626414.html) |
+|     [XVII Open Cup named after E.V. Pankratiev. XXI Ural Championship](https://www.cnblogs.com/Dup4/protected/p/11629330.html)      |
+|          [XVIII Open Cup named after E.V. Pankratiev. Grand Prix of Saratov](https://www.cnblogs.com/Dup4/p/11645781.html)          |
+|       [XVIII Open Cup named after E.V. Pankratiev. Grand Prix of SPb](https://www.cnblogs.com/Dup4/protected/p/11669525.html)       |
+|     [XVIII Open Cup named after E.V. Pankratiev. Ukrainian Grand Prix](https://www.cnblogs.com/Dup4/protected/p/11711845.html)      |
+|     [XVIII Open Cup named after E.V. Pankratiev. Grand Prix of Siberia](https://www.cnblogs.com/Dup4/protected/p/11730137.html)     |
+|                 [XIV Open Cup named after E.V. Pankratiev. GP of SPb](https://www.cnblogs.com/Dup4/p/11342247.html)                 |
+|        [XIX Open Cup named after E.V. Pankratiev. Grand Prix of SPb](https://www.cnblogs.com/Dup4/protected/p/11619034.html)        |
+|      [XIX Open Cup named after E.V. Pankratiev. Grand Prix of Eurasia](https://www.cnblogs.com/Dup4/protected/p/11619056.html)      |
+|            [XIX Open Cup named after E.V. Pankratiev. Grand Prix of Korea](https://www.cnblogs.com/Dup4/p/11131716.html)            |
+|          [XIX Open Cup named after E.V. Pankratiev. Grand Prix of Peterhof](https://www.cnblogs.com/Dup4/p/11127250.html)           |
+|      [XIX Open Cup named after E.V. Pankratiev. Grand Prix of America](https://www.cnblogs.com/Dup4/protected/p/11359358.html)      |
+|                     [XIII Open Grodno SU Championship](https://www.cnblogs.com/Dup4/protected/p/11623920.html)                      |
+|                [2011-2012 Summer Petrozavodsk Camp, Warsaw U Contest](https://www.cnblogs.com/Dup4/p/11342039.html)                 |
+|          [Petrozavodsk Summer-2013. Gennady Korotkevich Contest 1](https://www.cnblogs.com/Dup4/protected/p/11385141.html)          |
+|                [Petrozavodsk Winter-2014. Warsaw U Contest](https://www.cnblogs.com/Dup4/protected/p/11390483.html)                 |
+|          [Petrozavodsk Winter-2015. Michael Tikhomirov Contest 1](https://www.cnblogs.com/Dup4/protected/p/11385034.html)           |
+|               [Petrozavodsk Summer-2016. Moscow IPT Contest](https://www.cnblogs.com/Dup4/protected/p/11384947.html)                |
+|         [Petrozavodsk Summer-2017. Warsaw U Contest, XVII OpenCup](https://www.cnblogs.com/Dup4/protected/p/11336030.html)          |
+|             [Petrozavodsk Winter-2017. Jagiellonian U Contest](https://www.cnblogs.com/Dup4/protected/p/11645680.html)              |
+|             [Petrozavodsk Winter-2018. Jagiellonian U Contest](https://www.cnblogs.com/Dup4/protected/p/11621339.html)              |
+|            [Petrozavodsk Winter-2018. Carnegie Mellon U Contest](https://www.cnblogs.com/Dup4/protected/p/11664764.html)            |
+|                  [Petrozavodsk Winter-2019. Fukuoka-2018](https://www.cnblogs.com/Dup4/protected/p/11124234.html)                   |
+|                                [NWERC 2018](https://www.cnblogs.com/Dup4/protected/p/11469436.html)                                 |
+|                                 [Asia-Jakarata 2018](https://www.cnblogs.com/Dup4/p/11593648.html)                                  |
+|                    [Lesnoe Ozero 2017. BSUIR Open 2017](https://www.cnblogs.com/Dup4/protected/p/11769129.html)                     |
+
 ### Random Training
 
 |                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
