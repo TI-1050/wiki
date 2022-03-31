@@ -103,16 +103,17 @@ Comment:
 
 |                                                        Name                                                         |    Date    |  Rank   | Solved |
 | :-----------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
-|                  [2017ACM/ICPC Guangxi Invitational](https://www.cnblogs.com/Dup4/p/9451607.html)                   | 2018.08.09 |   174   |  4/12  |
+|                  [2017 ACM/ICPC Guangxi Invitational](https://www.cnblogs.com/Dup4/p/9451607.html)                  | 2018.08.09 |   174   |  4/12  |
 |              [2017 ACM/ICPC Asia Regional Qingdao Online](https://www.cnblogs.com/Dup4/p/9457058.html)              | 2018.08.10 |         |  5/11  |
 |                     [ACM-ICPC 2017 Asia Shenyang](https://www.cnblogs.com/Dup4/p/9494051.html)                      | 2018.08.17 |         |  6/13  |
 | [2017-2018 ACM-ICPC Asia East Continent League Final (ECL-Final 2017)](https://www.cnblogs.com/Dup4/p/9512388.html) | 2018.08.21 | 144/329 |  5/13  |
-|                      [2015 ACM/ICPC 亚洲区沈阳站](https://www.cnblogs.com/Dup4/p/9783359.html)                      | 2018.10.13 |  4/172  |  6/13  |
-|                      [2016 ACM/ICPC 亚洲区沈阳站](https://www.cnblogs.com/Dup4/p/9786924.html)                      | 2018.10.14 | 24/195  |  6/13  |
+|               [2015 ICPC Asia Shenyang Regional Contest](https://www.cnblogs.com/Dup4/p/9783359.html)               | 2018.10.13 |  4/172  |  6/13  |
+|               [2016 ICPC Asia Shenyang Regional Contest](https://www.cnblogs.com/Dup4/p/9786924.html)               | 2018.10.14 | 24/195  |  6/13  |
 |                    [2016-2017 ACM-ICPC CHINA-Final](https://www.cnblogs.com/Dup4/p/9975047.html)                    | 2018.11.17 |   163   |  5/12  |
-|           [The 2018 ACM-ICPC Asia Beijing Regional Contest](https://www.cnblogs.com/Dup4/p/11675241.html)           |            |         |        |
-|                  [2019 ICPC Asia Yinchuan Regional](https://www.cnblogs.com/Dup4/p/11963769.html)                   |            |         |        |
-|                   [2019 ICPC Asia Xuzhou Regional](https://www.cnblogs.com/Dup4/p/12005873.html)                    |            |         |        |
+|             [The 2018 ICPC Asia Beijing Regional Contest](https://www.cnblogs.com/Dup4/p/11675241.html)             |            |         |        |
+|             [The 2018 ICPC Asia Nanjing Regional Contest](https://www.cnblogs.com/Dup4/p/11124250.html)             |            |         |        |
+|            [The 2019 ICPC Asia Yinchuan Regional Contest](https://www.cnblogs.com/Dup4/p/11963769.html)             |            |         |        |
+|             [The 2019 ICPC Asia Xuzhou Regional Contest](https://www.cnblogs.com/Dup4/p/12005873.html)              |            |         |        |
 
 ### CCPC Regional Traning
 
