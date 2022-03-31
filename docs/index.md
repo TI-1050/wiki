@@ -130,7 +130,7 @@ Comment:
 |             [2019中国大学生成绩设计竞赛-女生专场](https://www.cnblogs.com/Dup4/p/11192685.html)             |            |        |        |
 |                     [2019CCPC-江西省赛 ](https://www.cnblogs.com/Dup4/p/11223762.html)                      |            |        |        |
 
-### 2018 Multi-University Training
+### 2018 HDU Multi-University Training
 
 |                                                     Name                                                     |    Date    |  Rank   | Solved |
 | :----------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
@@ -145,6 +145,15 @@ Comment:
 |  [2018 Multi-University Training Contest 9](./trainings/2018-Multi-University-Trainings/Contest-9/index.md)  | 2018.10.12 | 80/750  |  3/11  |
 | [2018 Multi-University Training Contest 10](./trainings/2018-Multi-University-Trainings/Contest-10/index.md) | 2018.10.17 | 198/767 |  5/12  |
 
+### 2018 Nowcoder Multi-University Training
+
+|                                                Name                                                |
+| :------------------------------------------------------------------------------------------------: |
+| [2018 Nowcoder Multi-University Training Contest 1](https://www.cnblogs.com/Dup4/p/11108577.html)  |
+| [2018 Nowcoder Multi-University Training Contest 2](https://www.cnblogs.com/Dup4/p/11108613.html)  |
+| [2018 Nowcoder Multi-University Training Contest 5](https://www.cnblogs.com/Dup4/p/11108589.html)  |
+| [2018 Nowcoder Multi-University Training Contest 10](https://www.cnblogs.com/Dup4/p/11108582.html) |
+
 ### 2018 牛客国庆集训
 
 |                                                   Name                                                   |    Date    | Rank  | Solved |
@@ -157,7 +166,7 @@ Comment:
 |                [2018 牛客国庆集训派对 Day6](https://www.cnblogs.com/Dup4/p/9747773.html)                 | 2018.10.06 |  24   |  6/11  |
 | [2018 牛客国庆集训派对 Day7（2016 ICPC Tsingdao Regional）](https://www.cnblogs.com/Dup4/p/9750466.html) | 2018.10.07 |  51   |  4/13  |
 
-### 2019 Multi-University Training
+### 2019 HDU Multi-University Training
 
 |                                           Name                                            |
 | :---------------------------------------------------------------------------------------: |
@@ -172,7 +181,7 @@ Comment:
 | [2019 Multi-University Training Contest 9](https://www.cnblogs.com/Dup4/p/11420697.html)  |
 | [2019 Multi-University Training Contest 10](https://www.cnblogs.com/Dup4/p/11426430.html) |
 
-### 2019 牛客多校
+### 2019 Nowcoder Multi-University Training
 
 |                                      Name                                      |
 | :----------------------------------------------------------------------------: |
