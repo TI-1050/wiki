@@ -114,6 +114,18 @@ Comment:
 |  [2018 Multi-University Training Contest 9](./trainings/2018-Multi-University-Trainings/Contest-9/index.md)  | 2018.10.12 | 80/750  |  3/11  |
 | [2018 Multi-University Training Contest 10](./trainings/2018-Multi-University-Trainings/Contest-10/index.md) | 2018.10.17 | 198/767 |  5/12  |
 
+### 2018 牛客国庆集训
+
+|                                                   Name                                                   |    Date    | Rank  | Solved |
+| :------------------------------------------------------------------------------------------------------: | :--------: | :---: | :----: |
+|                [2018 牛客国庆集训派对 Day1](https://www.cnblogs.com/Dup4/p/9734909.html)                 | 2018.10.01 |  248  |  3/12  |
+|                [2018 牛客国庆集训派对 Day2](https://www.cnblogs.com/Dup4/p/9737703.html)                 | 2018.10.02 |  352  |  1/11  |
+|                [2018 牛客国庆集训派对 Day3](https://www.cnblogs.com/Dup4/p/9740464.html)                 | 2018.10.03 |  105  |  3/11  |
+|                [2018 牛客国庆集训派对 Day4](https://www.cnblogs.com/Dup4/p/9742469.html)                 | 2018.10.04 |  105  |  5/10  |
+|                [2018 牛客国庆集训派对 Day5](https://www.cnblogs.com/Dup4/p/9745235.html)                 | 2018.10.05 |  79   |  2/12  |
+|                [2018 牛客国庆集训派对 Day6](https://www.cnblogs.com/Dup4/p/9747773.html)                 | 2018.10.06 |  24   |  6/11  |
+| [2018 牛客国庆集训派对 Day7（2016 ICPC Tsingdao Regional）](https://www.cnblogs.com/Dup4/p/9750466.html) | 2018.10.07 |  51   |  4/13  |
+
 ### Random Training
 
 |                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
