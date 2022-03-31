@@ -257,13 +257,51 @@ Comment:
 
 ### Random Training
 
-|                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----: | :----: |
-|  [2020, XIII Samara Regional Intercollegiate Programming Contest](./trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/index.md)  | 2020.4.6  |  8/168  | 13/13  |
-|   [2019-2020 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](./trainings/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/index.md)   | 2020.4.11 | 33/153  |  9/13  |
-|            [2018 ACM-ICPC, Syrian Collegiate Programming Contest](./trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/index.md)            | 2020.4.12 | 17/262  | 10/12  |
-|                           [“科大讯飞杯”第18届上海大学程序设计联赛春季赛暨高校网络友谊赛](./trainings/random-trainings/18th-SHU-CPC/index.md)                            | 2020.4.18 | 19/3177 |  9/12  |
-|      [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/index.md)       | 2020.4.19 |  9/362  | 11/13  |
-|         [2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2017-2018-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.4.25 | 99/5078 |  9/13  |
-|         [2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2016-2017-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)          | 2020.5.4  | 86/4048 |  9/12  |
-| [22019-2020 ACM-ICPC Latin American Regional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/index.md) | 2020.5.5  | 85/1179 |  7/13  |
+|                                                                                        Name                                                                                        |    Date    |  Rank   | Solved |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
+|                                        [ACM ICPC, JUST Collegiate Programming Contest (2018)](https://www.cnblogs.com/Dup4/p/9460855.html)                                         | 2018.08.11 |    -    |  9/11  |
+|                                          [2017-2018 ACM-ICPC, Asia Daejeon Regional Contest](https://www.cnblogs.com/Dup4/p/9464021.html)                                          | 2018.08.12 |  30/88  |  6/12  |
+|                                                         [BUCT20180814邀请赛](https://www.cnblogs.com/Dup4/p/9477456.html)                                                          | 2018.08.14 | 37/172  |  3/6   |
+|                                        [ACM ICPC, Amman Collegiate Programming Contest (2018)](https://www.cnblogs.com/Dup4/p/9483949.html)                                        | 2018.08.15 |  2/95   | 10/13  |
+|                         [2017-2018 ACM-ICPC Southeastern European Regional Programming Contest (SEERC 2017)](https://www.cnblogs.com/Dup4/p/9497946.html)                          | 2018.08.18 |  41/93  |  4/12  |
+|                                 [ACM ICPC, Damascus University Collegiate Programming Contest(2018)](https://www.cnblogs.com/Dup4/p/9506874.html)                                  | 2018.08.20 |  2/33   |  8/12  |
+|                             [2017-2018 ACM-ICPC East Central North America Regional Contest (ECNA 2017)](https://www.cnblogs.com/Dup4/p/9518931.html)                              | 2018.08.22 | 13/139  |  7/10  |
+|                                        [2017 Benelux Algorithm Programming Contest (BAPC 17)](https://www.cnblogs.com/Dup4/p/9530962.html)                                         | 2018.08.24 |  5/55   |  8/13  |
+|                                   [2017-2018 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](https://www.cnblogs.com/Dup4/p/9549249.html)                                    | 2018.08.28 |  10/69  |  5/13  |
+|                                [2017-2018 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2017)](https://www.cnblogs.com/Dup4/p/9561271.html)                                 | 2018.08.30 | 17/253  |  7/11  |
+|                                   [2017-2018 ACM-ICPC Latin American Regional Programming Contest](https://www.cnblogs.com/Dup4/p/9574748.html)                                    | 2018.09.02 | 24/438  |  7/13  |
+|                                                       [ZOJ Monthly, March 2018](https://www.cnblogs.com/Dup4/p/9845982.html)                                                       | 2018.10.24 | 117/642 |  4/10  |
+|                                                      [ZOJ Monthly, January 2018](https://www.cnblogs.com/Dup4/p/9862792.html)                                                      | 2018.10.27 | 10/180  |  5/10  |
+|                                                       [ZOJ Monthly, June 2018](https://www.cnblogs.com/Dup4/p/9884160.html)                                                        | 2018.10.31 | 12/260  |  4/10  |
+| [2018-2019 Всероссийская командная олимпиада школьников по программированию, интернет-тур + отборы регионов (ВКОШП 18, интернет-тур)](https://www.cnblogs.com/Dup4/p/9942889.html) | 2018.11.11 |   111   |  6/12  |
+|            [2018-2019 ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred) Solution](https://www.cnblogs.com/Dup4/p/9960001.html)            | 2018.11.14 |   211   |  7/13  |
+|                                [2017-2018 ACM-ICPC German Collegiate Programming Contest (GCPC 2017)](https://www.cnblogs.com/Dup4/p/9997377.html)                                 | 2018.11.21 |    -    |  3/11  |
+|                                  [哈尔滨理工大学软件与微电子学院第八届程序设计竞赛同步赛（高年级）](https://www.cnblogs.com/Dup4/p/10050587.html)                                  | 2018.12.01 |   26    |  9/10  |
+|                                                        [字节跳动冬令营网络赛](https://www.cnblogs.com/Dup4/p/10050625.html)                                                        | 2018.12.01 |    -    |  0/10  |
+|                         [2018-2019 ACM-ICPC Southeastern European Regional Programming Contest (SEERC 2018)](https://www.cnblogs.com/Dup4/p/10055176.html)                         | 2018.12.02 |   62    |  5/11  |
+|                [2018-2019 ICPC, NEERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)](https://www.cnblogs.com/Dup4/p/10073225.html)                | 2018.12.05 |   182   |  5/13  |
+|                                   [2018-2019 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](https://www.cnblogs.com/Dup4/p/10086500.html)                                   | 2018.12.07 |   31    | 10/13  |
+|                                [2018-2019 ACM-ICPC Nordic Collegiate Programming Contest (NCPC 2018)](https://www.cnblogs.com/Dup4/p/10088650.html)                                | 2018.12.08 |   90    |  7/11  |
+|                                   [2016-2017 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](https://www.cnblogs.com/Dup4/p/10092503.html)                                   | 2018.12.09 |   57    |  8/12  |
+|                                                  [2018年浙江中医药大学程序设计竞赛](https://www.cnblogs.com/Dup4/p/10163426.html)                                                  | 2018.12.22 |   20    |  8/13  |
+|                                                     [ZOJ Monthly, January 2019](https://www.cnblogs.com/Dup4/p/10292338.html)                                                      | 2019.01.19 |   16    |  5/9   |
+|                                       [2018-2019 Russia Open High School Programming Contest](https://www.cnblogs.com/Dup4/p/10446486.html)                                        | 2019.02.23 |   94    |  8/13  |
+|                                    [2016-2017 CT S03E07: Codeforces Trainings Season 3 Episode 7](https://www.cnblogs.com/Dup4/p/10446403.html)                                    | 2019.02.27 |   72    |  6/10  |
+|                                          [2018-2019 ACM-ICPC, Asia Seoul Regional Contest](https://www.cnblogs.com/Dup4/p/10462263.html)                                           | 2019.03.02 |   51    |  4/12  |
+|                                                                   Bubble Cup 11 - Finals [Online Mirror, Div. 1]                                                                   | 2019.03.03 |   144   |  2/10  |
+|                                         [2017-2018 ACM-ICPC, Asia Tsukuba Regional Contest](https://www.cnblogs.com/Dup4/p/10525587.html)                                          | 2019.03.13 |   37    |  6/11  |
+|                                                                          广东工业大学第十四届程序设计竞赛                                                                          | 2019.03.16 |    8    |  8/10  |
+|                                                                          杭州师范大学第十二届程序设计竞赛                                                                          | 2019.03.17 |    -    |  8/13  |
+|                                                               “美登杯”上海市高校大学生程序设计邀请赛 (华东理工大学)                                                                | 2019.05.18 |    9    |  6/9   |
+|                                                                               2019CCPC湖南全国邀请赛                                                                               | 2019.05.19 |   10    |  5/12  |
+|                                    [The 10th Shandong Provincial Collegiate Programming Contest](https://www.cnblogs.com/Dup4/p/11136480.html)                                     | 2019.05.22 |    4    | 10/13  |
+|                                                                       2019河北省大学生程序设计竞赛（重现赛）                                                                       | 2019.05.25 |    1    |  9/12  |
+|                                                           The 2019 ACM-ICPC China Shannxi Provincial Programming Contest                                                           | 2019.05.26 |    7    |  6/13  |
+|       [2020, XIII Samara Regional Intercollegiate Programming Contest](./trainings/random-trainings/2020-XIII-Samara-Regional-Intercollegiate-Programming-Contest/index.md)        |  2020.4.6  |  8/168  | 13/13  |
+|        [2019-2020 ACM-ICPC Pacific Northwest Regional Contest (Div. 1)](./trainings/random-trainings/2019-2020-ACM-ICPC-Pacific-Northwest-Regional-Contest-Div-1/index.md)         | 2020.4.11  | 33/153  |  9/13  |
+|                 [2018 ACM-ICPC, Syrian Collegiate Programming Contest](./trainings/random-trainings/2018-ACM-ICPC-Syrian-Collegiate-Programming-Contest/index.md)                  | 2020.4.12  | 17/262  | 10/12  |
+|                                 [“科大讯飞杯”第18届上海大学程序设计联赛春季赛暨高校网络友谊赛](./trainings/random-trainings/18th-SHU-CPC/index.md)                                 | 2020.4.18  | 19/3177 |  9/12  |
+|            [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Brazil-Subregional-Programming-Contest/index.md)            | 2020.4.19  |  9/362  | 11/13  |
+|               [2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2017-2018-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)               | 2020.4.25  | 99/5078 |  9/13  |
+|               [2016-2017 ACM-ICPC, NEERC, Southern Subregional Contest](./trainings/random-trainings/2016-2017-ACM-ICPC-NEERC-Southern-Subregional-Contest/index.md)               |  2020.5.4  | 86/4048 |  9/12  |
+|      [22019-2020 ACM-ICPC Latin American Regional Programming Contest](./trainings/random-trainings/2019-2020-ACM-ICPC-Latin-American-Regional-Programming-Contest/index.md)       |  2020.5.5  | 85/1179 |  7/13  |
