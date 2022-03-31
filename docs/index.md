@@ -54,23 +54,23 @@ TI1050 出过的题目们。
 
 ## Onsite
 
-|                           Name                            |    Date    |   Award   | Rank  | Solved |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |   I   |   J   |   K   |   L   |   M   |
-| :-------------------------------------------------------: | :--------: | :-------: | :---: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|                        2018 ZJPSC                         | 2018.04.29 |  Bronze   |  86   |  6/13  |   O   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |   O   |   O   |
-|                  2018 CCPC Jilin Onsite                   | 2018.09.22 |  Bronze   |  95   |  5/12  |   O   |   O   |   O   |   O   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |
-|                 2018 ICPC Shenyang Onsite                 | 2018.10.21 |  Bronze   |  74   |  2/13  |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   .   |   .   |   .   |
-|                 2018 ICPC Tsingdao Onsite                 | 2018.11.04 | Honorable |  241  |  3/13  |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |
-|                      2018 CCPC Final                      | 2018.11.25 |  Bronze   |  43   |  5/12  |   O   |   O   |   .   |   .   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |
-|                        2019 ZJPSC                         | 2019.04.27 |   Gold    |   7   |  9/13  |   .   |   O   |   O   |   .   |   O   |   O   |   O   |   O   |   O   |   O   |   O   |   .   |   .   |
-| 2019 ICPC China Nanchang Invitational Programming Contest | 2019.06.01 |  Silver   |  64   |  5/12  |   .   |   .   |   .   |   .   |   .   |   O   |   O   |   .   |   .   |   O   |   O   |   O   |
-|               2019 CCPC Qinghuangdao Onsite               | 2019.09.22 |  Bronze   |  80   |  4/12  |   O   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |
-|                  2019 CCPC Xiamen Onsite                  | 2019.10.20 |  Silver   |  36   |  5/12  |   O   |   .   |   .   |   O   |   .   |   .   |   O   |   O   |   .   |   O   |   .   |   .   |
-|                 2019 ICPC Nanjing Onsite                  | 2019.10.27 |  Silver   |  40   |  5/11  |   O   |   .   |   O   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |
-|                 2019 ICPC Nanchang Onsite                 | 2019.11.10 |   Gold    |  28   |  5/13  |   .   |   .   |   O   |   .   |   O   |   .   |   O   |   .   |   .   |   .   |   O   |   O   |   .   |
-|                      2019 CCPC Final                      | 2019.11.17 | Honorable |  91   |  3/12  |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |
-|                    2019 ICPC EC Final                     | 2019.12.15 |  Silver   |  87   |  4/13  |   O   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   O   |
-|        [2020 ZJPSC](./onsite/17th-zjpsc/index.md)         | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
-|                        2021 ZJPSC                         | 2021.04.18 |  Silver   |  38   |  7/13  |   O   |   .   |   O   |   !   |   .   |   O   |   O   |   .   |   !   |   O   |   .   |   O   |   O   |
+|                                                   Name                                                    |    Date    |   Award   | Rank  | Solved |   A   |   B   |   C   |   D   |   E   |   F   |   G   |   H   |   I   |   J   |   K   |   L   |   M   |
+| :-------------------------------------------------------------------------------------------------------: | :--------: | :-------: | :---: | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|                                                2018 ZJPSC                                                 | 2018.04.29 |  Bronze   |  86   |  6/13  |   O   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |   O   |   O   |
+|                  [2018 CCPC Jilin Onsite](https://www.cnblogs.com/Dup4/p/11198642.html)                   | 2018.09.22 |  Bronze   |  95   |  5/12  |   O   |   O   |   O   |   O   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |
+|                                         2018 ICPC Shenyang Onsite                                         | 2018.10.21 |  Bronze   |  74   |  2/13  |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   .   |   .   |   .   |
+|                                         2018 ICPC Tsingdao Onsite                                         | 2018.11.04 | Honorable |  241  |  3/13  |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |
+|                                              2018 CCPC Final                                              | 2018.11.25 |  Bronze   |  43   |  5/12  |   O   |   O   |   .   |   .   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |
+|                                                2019 ZJPSC                                                 | 2019.04.27 |   Gold    |   7   |  9/13  |   .   |   O   |   O   |   .   |   O   |   O   |   O   |   O   |   O   |   O   |   O   |   .   |   .   |
+| [2019 ICPC China Nanchang Invitational Programming Contest](https://www.cnblogs.com/Dup4/p/11235580.html) | 2019.06.01 |  Silver   |  64   |  5/12  |   .   |   .   |   .   |   .   |   .   |   O   |   O   |   .   |   .   |   O   |   O   |   O   |
+|               [2019 CCPC Qinghuangdao Onsite](https://www.cnblogs.com/Dup4/p/11718018.html)               | 2019.09.22 |  Bronze   |  80   |  4/12  |   O   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |
+|                                          2019 CCPC Xiamen Onsite                                          | 2019.10.20 |  Silver   |  36   |  5/12  |   O   |   .   |   .   |   O   |   .   |   .   |   O   |   O   |   .   |   O   |   .   |   .   |
+|                                         2019 ICPC Nanjing Onsite                                          | 2019.10.27 |  Silver   |  40   |  5/11  |   O   |   .   |   O   |   .   |   .   |   O   |   .   |   O   |   .   |   .   |   O   |
+|                                         2019 ICPC Nanchang Onsite                                         | 2019.11.10 |   Gold    |  28   |  5/13  |   .   |   .   |   O   |   .   |   O   |   .   |   O   |   .   |   .   |   .   |   O   |   O   |   .   |
+|                                              2019 CCPC Final                                              | 2019.11.17 | Honorable |  91   |  3/12  |   O   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   .   |   O   |   O   |
+|                                            2019 ICPC EC Final                                             | 2019.12.15 |  Silver   |  87   |  4/13  |   O   |   .   |   .   |   .   |   O   |   .   |   .   |   O   |   .   |   .   |   .   |   .   |   O   |
+|                                [2020 ZJPSC](./onsite/17th-zjpsc/index.md)                                 | 2020.10.17 |   Gold    |  12   |  7/12  |   O   |   O   |   O   |   .   |   O   |   .   |   O   |   !   |   O   |   .   |   O   |   .   |
+|                                                2021 ZJPSC                                                 | 2021.04.18 |  Silver   |  38   |  7/13  |   O   |   .   |   O   |   !   |   .   |   O   |   O   |   .   |   !   |   O   |   .   |   O   |   O   |
 
 Comment:
 
@@ -99,6 +99,20 @@ Comment:
 
 ## Trainings
 
+### ICPC Regional Traning
+
+|                                                        Name                                                         |    Date    |  Rank   | Solved |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :----: |
+|                  [2017ACM/ICPC Guangxi Invitational](https://www.cnblogs.com/Dup4/p/9451607.html)                   | 2018.08.09 |   174   |  4/12  |
+|              [2017 ACM/ICPC Asia Regional Qingdao Online](https://www.cnblogs.com/Dup4/p/9457058.html)              | 2018.08.10 |         |  5/11  |
+|                     [ACM-ICPC 2017 Asia Shenyang](https://www.cnblogs.com/Dup4/p/9494051.html)                      | 2018.08.17 |         |  6/13  |
+| [2017-2018 ACM-ICPC Asia East Continent League Final (ECL-Final 2017)](https://www.cnblogs.com/Dup4/p/9512388.html) | 2018.08.21 | 144/329 |  5/13  |
+|                      [2015 ACM/ICPC 亚洲区沈阳站](https://www.cnblogs.com/Dup4/p/9783359.html)                      | 2018.10.13 |  4/172  |  6/13  |
+|                      [2016 ACM/ICPC 亚洲区沈阳站](https://www.cnblogs.com/Dup4/p/9786924.html)                      | 2018.10.14 | 24/195  |  6/13  |
+|                    [2016-2017 ACM-ICPC CHINA-Final](https://www.cnblogs.com/Dup4/p/9975047.html)                    | 2018.11.17 |   163   |  5/12  |
+|           [The 2018 ACM-ICPC Asia Beijing Regional Contest](https://www.cnblogs.com/Dup4/p/11675241.html)           |            |         |        |
+|                  [2019 ICPC Asia Yinchuan Regional](https://www.cnblogs.com/Dup4/p/11963769.html)                   |            |         |        |
+|                   [2019 ICPC Asia Xuzhou Regional](https://www.cnblogs.com/Dup4/p/12005873.html)                    |            |         |        |
 ### 2018 Multi-University Training
 
 |                                                     Name                                                     |    Date    |  Rank   | Solved |
