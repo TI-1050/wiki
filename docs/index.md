@@ -196,6 +196,20 @@ Comment:
 | [2019牛客暑期多校训练营(第九场)](https://www.cnblogs.com/Dup4/p/11410843.html) |
 | [2019牛客暑期多校训练营(第十场)](https://www.cnblogs.com/Dup4/p/11384861.html) |
 
+### Gym
+
+|                                                           Name                                                            |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+|         [The 13th Chinese Northeast Collegiate Programming Contest](https://www.cnblogs.com/Dup4/p/11139025.html)         |
+| [2018-2019 ACM-ICPC, China Multi-Provincial Collegiate Programming Contest](https://www.cnblogs.com/Dup4/p/11366509.html) |
+|           [2018 German Collegiate Programming Contest (GCPC 18)](https://www.cnblogs.com/Dup4/p/11431617.html)            |
+|             [2018-2019 ACM-ICPC, Asia Jiaozuo Regional Contest](https://www.cnblogs.com/Dup4/p/11516795.html)             |
+|           [2018 Benelux Algorithm Programming Contest (BAPC 18)](https://www.cnblogs.com/Dup4/p/11603310.html)            |
+|              [2018-2019 ACM-ICPC, Asia Dhaka Regional Contest](https://www.cnblogs.com/Dup4/p/11723990.html)              |
+|     [2019-2020 ICPC, NERC, Southern and Volga Russian Regional Contest](https://www.cnblogs.com/Dup4/p/11785121.html)     |
+|               [2019-2020 ICPC, Asia Jakarta Regional Contest](https://www.cnblogs.com/Dup4/p/11888609.html)               |
+|           [ICPC 2019-2020 North-Western Russia Regional Contest](https://www.cnblogs.com/Dup4/p/11968817.html)            |
+
 ### Random Training
 
 |                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
