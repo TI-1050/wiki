@@ -81,14 +81,21 @@ Comment:
 
 ## Online
 
-|                                     Name                                      |    Date    | Rank  | Solved |
-| :---------------------------------------------------------------------------: | :--------: | :---: | :----: |
-|       [2018 中国大学生程序设计竞赛](./online/2018-CCPC-Online/index.md)       | 2018.08.25 |  213  |  5/10  |
-| [ACM-ICPC 2018 南京赛区网络预赛](./online/2018-ICPC-Nanjing-Online/index.md)  | 2018.09.01 |  308  |  5/12  |
-| [ACM-ICPC 2018 沈阳赛区网络预赛](./online/2018-ICPC-Shenyang-Online/index.md) | 2018.09.08 |  159  |  6/11  |
-|                  [ACM-ICPC 2018 徐州赛区网络预赛](./online/)                  | 2018.09.09 |  366  |  5/11  |
-|                  [ACM-ICPC 2018 焦作赛区网络预赛](./online/)                  | 2018.09.15 |  461  |  6/12  |
-|     [The 2018 ACM-ICPC Asia Qingdao Regional Contest, Online](./online/)      | 2018.09.16 |  331  |  5/11  |
+|                                                         Name                                                          |    Date    | Rank  | Solved |
+| :-------------------------------------------------------------------------------------------------------------------: | :--------: | :---: | :----: |
+|                           [2018 中国大学生程序设计竞赛](./online/2018-CCPC-Online/index.md)                           | 2018.08.25 |  213  |  5/10  |
+|                     [ACM-ICPC 2018 南京赛区网络预赛](./online/2018-ICPC-Nanjing-Online/index.md)                      | 2018.09.01 |  308  |  5/12  |
+|                     [ACM-ICPC 2018 沈阳赛区网络预赛](./online/2018-ICPC-Shenyang-Online/index.md)                     | 2018.09.08 |  159  |  6/11  |
+|                     [ACM-ICPC 2018 徐州赛区网络预赛](https://www.cnblogs.com/Dup4/p/9614543.html)                     | 2018.09.09 |  366  |  5/11  |
+|                     [ACM-ICPC 2018 焦作赛区网络预赛](https://www.cnblogs.com/Dup4/p/9651825.html)                     | 2018.09.15 |  461  |  6/12  |
+|        [The 2018 ACM-ICPC Asia Qingdao Regional Contest, Online](https://www.cnblogs.com/Dup4/p/9657033.html)         | 2018.09.16 |  331  |  5/11  |
+| [The Preliminary Contest for ICPC China Nanchang National Invitational](https://www.cnblogs.com/Dup4/p/11154237.html) |            |       |        |
+|            [2019中国大学生程序设计竞赛（CCPC） - 网络选拔赛](https://www.cnblogs.com/Dup4/p/11403770.html)            |            |       |        |
+|          [The Preliminary Contest for ICPC Asia Nanjing 2019](https://www.cnblogs.com/Dup4/p/11445078.html)           |            |       |        |
+|           [The Preliminary Contest for ICPC Asia Xuzhou 2019](https://www.cnblogs.com/Dup4/p/11489798.html)           |            |       |        |
+|     [The 2019 Asia Nanchang First Round Online Programming Contest](https://www.cnblogs.com/Dup4/p/11489829.html)     |            |       |        |
+|          [The Preliminary Contest for ICPC Asia Shenyang 2019](https://www.cnblogs.com/Dup4/p/11521336.html)          |            |       |        |
+|          [The Preliminary Contest for ICPC Asia Shanghai 2019](https://www.cnblogs.com/Dup4/p/11525675.html)          |            |       |        |
 
 ## Trainings
 
