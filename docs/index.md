@@ -171,6 +171,21 @@ Comment:
 | [2019 Multi-University Training Contest 9](https://www.cnblogs.com/Dup4/p/11420697.html)  |
 | [2019 Multi-University Training Contest 10](https://www.cnblogs.com/Dup4/p/11426430.html) |
 
+### 2019 牛客多校
+
+|                                      Name                                      |
+| :----------------------------------------------------------------------------: |
+| [2019牛客暑期多校训练营(第一场)](https://www.cnblogs.com/Dup4/p/11211043.html) |
+| [2019牛客暑期多校训练营(第二场)](https://www.cnblogs.com/Dup4/p/11220210.html) |
+| [2019牛客暑期多校训练营(第三场)](https://www.cnblogs.com/Dup4/p/11248044.html) |
+| [2019牛客暑期多校训练营(第四场)](https://www.cnblogs.com/Dup4/p/11257680.html) |
+| [2019牛客暑期多校训练营(第五场)](https://www.cnblogs.com/Dup4/p/11286433.html) |
+| [2019牛客暑期多校训练营(第六场)](https://www.cnblogs.com/Dup4/p/11297134.html) |
+| [2019牛客暑期多校训练营(第七场)](https://www.cnblogs.com/Dup4/p/11330427.html) |
+| [2019牛客暑期多校训练营(第八场)](https://www.cnblogs.com/Dup4/p/11405844.html) |
+| [2019牛客暑期多校训练营(第九场)](https://www.cnblogs.com/Dup4/p/11410843.html) |
+| [2019牛客暑期多校训练营(第十场)](https://www.cnblogs.com/Dup4/p/11384861.html) |
+
 ### Random Training
 
 |                                                                                  Name                                                                                   |   Date    |  Rank   | Solved |
